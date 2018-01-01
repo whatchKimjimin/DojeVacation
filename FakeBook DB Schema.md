@@ -46,6 +46,7 @@
 
 | NAME       | TYPE      |
 | ---------- | --------- |
+| id         | INT       |
 | Users_id   | INT       |
 | Friends_id | INT       |
 | created    | TIMESTAMP |
