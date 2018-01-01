@@ -7,7 +7,7 @@
 * UserImage
 * Friends
 * FriendsInfo
-* TimeLine
+* TimeLines
 * Comments
 * Likes
 
