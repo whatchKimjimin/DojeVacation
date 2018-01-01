@@ -41,7 +41,6 @@
 | id           | INT       |
 | imgPath      | VARCHAR   |
 | created      | TIMESTAMP |
-| UsersInfo_id | INT       |
 
 > Friends
 
