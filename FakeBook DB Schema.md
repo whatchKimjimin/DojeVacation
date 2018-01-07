@@ -7,7 +7,7 @@
 * UserImage
 * Friends
 * FriendsInfo
-* TimeLine
+* TimeLines
 * Comments
 * Likes
 
@@ -41,12 +41,12 @@
 | id           | INT       |
 | imgPath      | VARCHAR   |
 | created      | TIMESTAMP |
-| UsersInfo_id | INT       |
 
 > Friends
 
 | NAME       | TYPE      |
 | ---------- | --------- |
+| id         | INT       |
 | Users_id   | INT       |
 | Friends_id | INT       |
 | created    | TIMESTAMP |
