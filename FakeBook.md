@@ -25,7 +25,7 @@
 
 ##### Login Page	
 
-![login](/Users/kimjimin/Desktop/FakeBook_Project_REAL/DESIGN/캡쳐화면/login.png)
+![login](https://github.com/whatchKimjimin/DojeVacation/blob/master/IMG/login.png)
 
 
 
