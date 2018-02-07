@@ -31,41 +31,41 @@
 
 ##### Join Page
 
-![join](/Users/kimjimin/Desktop/FakeBook_Project_REAL/DESIGN/캡쳐화면/join.png)
+![join](https://github.com/whatchKimjimin/DojeVacation/blob/master/IMG/join.png)
 
 
 
 ##### NewsFeed Page
 
-![timeline](/Users/kimjimin/Desktop/FakeBook_Project_REAL/DESIGN/캡쳐화면/timeline.png)
+![timeline](https://github.com/whatchKimjimin/DojeVacation/blob/master/IMG/timeline.png)
 
 
 
 ##### NewsFeed Comment 
 
-![comment](/Users/kimjimin/Desktop/FakeBook_Project_REAL/DESIGN/캡쳐화면/comment.png)
+![comment](https://github.com/whatchKimjimin/DojeVacation/blob/master/IMG/comment.png)
 
  
 
 ##### FriendsResponse
 
-![friendResponse](/Users/kimjimin/Desktop/FakeBook_Project_REAL/DESIGN/캡쳐화면/friendResponse.png)
+![friendResponse](https://github.com/whatchKimjimin/DojeVacation/blob/master/IMG/friendResponse.png)
 
 
 
 ##### Mypage 
 
-![mypage](/Users/kimjimin/Desktop/FakeBook_Project_REAL/DESIGN/캡쳐화면/mypage.png)
+![mypage](https://github.com/whatchKimjimin/DojeVacation/blob/master/IMG/mypage.png)
 
 
 
 ##### Mypage Friends List
 
-![myfriend](/Users/kimjimin/Desktop/FakeBook_Project_REAL/DESIGN/캡쳐화면/myfriend.png)
+![myfriend](https://github.com/whatchKimjimin/DojeVacation/blob/master/IMG/myfriend.png)
 
 
 
 ##### Friend Search
 
-![friendsearch](/Users/kimjimin/Desktop/FakeBook_Project_REAL/DESIGN/캡쳐화면/friendsearch.png)
+![friendsearch](https://github.com/whatchKimjimin/DojeVacation/blob/master/IMG/friendsearch.png)
 
